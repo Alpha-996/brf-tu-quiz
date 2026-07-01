@@ -1,0 +1,943 @@
+{
+  "subject": "Business Law (TU BESC)",
+  "units": [
+    {
+      "id": "unit1",
+      "unit": "Unit I",
+      "title": "Introduction to Business Law",
+      "questions": [
+        {
+          "id": "u1-01",
+          "question": "Who defined law as \"the command of the sovereign backed by sanction\"?",
+          "options": ["John Austin", "Salmond", "Roscoe Pound", "Savigny"],
+          "answer": "John Austin",
+          "explanation": "Austin's positivist definition treats law as the sovereign's command backed by sanction. Salmond instead defined law through the administration of justice."
+        },
+        {
+          "id": "u1-02",
+          "question": "According to Salmond, law is the body of principles recognized and applied by the State in the:",
+          "options": ["Administration of justice", "Command of the sovereign", "Regulation of trade and commerce", "Balancing of competing interests"],
+          "answer": "Administration of justice",
+          "explanation": "Salmond: law is the body of principles recognized and applied by the State in the administration of justice."
+        },
+        {
+          "id": "u1-03",
+          "question": "The foundation of Indian business (mercantile) law is the:",
+          "options": ["Indian Contract Act, 1872", "Sale of Goods Act, 1930", "Transfer of Property Act, 1882", "Companies Act, 2013"],
+          "answer": "Indian Contract Act, 1872",
+          "explanation": "The Indian Contract Act, 1872 is the foundation of Indian business law, which is largely based on English Mercantile Law."
+        },
+        {
+          "id": "u1-04",
+          "question": "Indian business law is largely based on which of the following?",
+          "options": ["English Mercantile Law", "French Civil Code", "American Commercial Code", "Roman Law directly"],
+          "answer": "English Mercantile Law",
+          "explanation": "English Mercantile Law (common law, equity, law merchant and statute) is the historical base of Indian business law."
+        },
+        {
+          "id": "u1-05",
+          "question": "The maxim \"ignorantia juris non excusat\" means:",
+          "options": ["Ignorance of law is no excuse", "No one can give a better title than he has", "Let the buyer beware", "The thing perishes with the owner"],
+          "answer": "Ignorance of law is no excuse",
+          "explanation": "Ignorantia juris non excusat — ignorance of the law excuses no one, which is why legal awareness matters in business."
+        },
+        {
+          "id": "u1-06",
+          "question": "Which of the following is NOT a source of Indian business law?",
+          "options": ["Physical laws of nature", "English Mercantile Law", "Customs and usages of trade", "Judicial decisions"],
+          "answer": "Physical laws of nature",
+          "explanation": "The five sources are English Mercantile Law, statute law, judicial decisions, customs & usages of trade, and justice, equity & good conscience."
+        },
+        {
+          "id": "u1-07",
+          "question": "The doctrine of \"stare decisis\" relates to which source of business law?",
+          "options": ["Judicial decisions or case law", "Statute law", "Customs and usages of trade", "Justice, equity and good conscience"],
+          "answer": "Judicial decisions or case law",
+          "explanation": "Stare decisis means precedents of higher courts bind lower courts — the essence of case law as a source."
+        },
+        {
+          "id": "u1-08",
+          "question": "\"Justice, equity and good conscience\" is applied as a source of law when:",
+          "options": ["No statutory rule or custom covers the point", "A statute is ambiguous", "Two precedents conflict", "A trade custom is unreasonable"],
+          "answer": "No statutory rule or custom covers the point",
+          "explanation": "Courts fall back on justice, equity and good conscience where no established rule exists."
+        },
+        {
+          "id": "u1-09",
+          "question": "The expression \"jurisprudence\" is derived from the Latin \"juris prudentia\", meaning:",
+          "options": ["Knowledge or skill of law", "Command of the sovereign", "Spirit of the people", "Justice for all"],
+          "answer": "Knowledge or skill of law",
+          "explanation": "Juris prudentia literally means knowledge or skill of law — jurisprudence is the science or philosophy of law."
+        },
+        {
+          "id": "u1-10",
+          "question": "The Analytical school of jurisprudence studies law:",
+          "options": ["As it IS", "As it OUGHT to be", "As it has EVOLVED from custom", "As it applies between nations"],
+          "answer": "As it IS",
+          "explanation": "Analytical (positive) jurisprudence — associated with Austin and Bentham — studies positive law as it is, not as it ought to be."
+        },
+        {
+          "id": "u1-11",
+          "question": "Which school of jurisprudence associates law with the \"Volksgeist\" — the spirit of the people?",
+          "options": ["Historical school", "Analytical school", "Ethical school", "Sociological school"],
+          "answer": "Historical school",
+          "explanation": "The Historical school (Savigny, Henry Maine) sees law as evolving from custom, tradition and the Volksgeist."
+        },
+        {
+          "id": "u1-12",
+          "question": "Grotius and Kant are thinkers associated with which school of jurisprudence?",
+          "options": ["Ethical (Natural) school", "Analytical school", "Historical school", "Imperative school"],
+          "answer": "Ethical (Natural) school",
+          "explanation": "Ethical or natural/philosophical jurisprudence studies law as it OUGHT to be, based on morality and justice — Grotius and Kant."
+        },
+        {
+          "id": "u1-13",
+          "question": "Who described law as an instrument of \"social engineering\"?",
+          "options": ["Roscoe Pound", "John Austin", "Salmond", "Henry Maine"],
+          "answer": "Roscoe Pound",
+          "explanation": "Roscoe Pound: law is social engineering — balancing individual, public and social interests with minimum friction and waste."
+        },
+        {
+          "id": "u1-14",
+          "question": "According to Roscoe Pound, social engineering involves balancing which competing interests?",
+          "options": ["Individual, public and social interests", "Legislative, executive and judicial interests", "Buyer, seller and State interests", "National, state and district interests"],
+          "answer": "Individual, public and social interests",
+          "explanation": "Pound's social engineering balances individual, public and social interests with minimum friction and waste."
+        },
+        {
+          "id": "u1-15",
+          "question": "Which of the following is NOT a function of law?",
+          "options": ["Describing the uniformities of nature", "Maintaining order, peace and stability", "Resolving disputes and delivering justice", "Acting as an instrument of social change"],
+          "answer": "Describing the uniformities of nature",
+          "explanation": "Describing natural uniformities (like gravity) is the domain of physical/scientific law, not a social function of law."
+        },
+        {
+          "id": "u1-16",
+          "question": "A \"physical or scientific law\", such as the law of gravity, is:",
+          "options": ["Descriptive of nature and cannot be enforced by courts", "A command backed by sanction", "Enforceable between the parties who agree to it", "The positive law of a State"],
+          "answer": "Descriptive of nature and cannot be enforced by courts",
+          "explanation": "Physical law describes uniformities of nature — it is not a command and cannot be broken or enforced. Don't confuse it with imperative law, which commands."
+        },
+        {
+          "id": "u1-17",
+          "question": "\"Imperative law\" is best described as:",
+          "options": ["A command by a superior, obligatory and backed by sanction", "Rules arising from agreement between parties", "Principles of universal morality", "Rules of an art or profession"],
+          "answer": "A command by a superior, obligatory and backed by sanction",
+          "explanation": "Imperative law commands and must be obeyed; conventional law arises from agreement, and practical/technical law governs an art or profession."
+        },
+        {
+          "id": "u1-18",
+          "question": "Which branch of law is NOT part of public law?",
+          "options": ["Law of contract", "Constitutional law", "Criminal law", "Administrative law"],
+          "answer": "Law of contract",
+          "explanation": "Public law = constitutional + administrative + criminal law (State versus individual). Contract, tort, property and family law are private law."
+        },
+        {
+          "id": "u1-19",
+          "question": "Rules made by agreement or consent of parties — such as club rules or treaties — are called:",
+          "options": ["Conventional law", "Customary law", "Imperative law", "Civil law"],
+          "answer": "Conventional law",
+          "explanation": "Conventional law arises from agreement or consent (contracts, treaties, club rules) and binds between the parties."
+        },
+        {
+          "id": "u1-20",
+          "question": "The three subjects of jurisprudential enquiry are generally listed as:",
+          "options": ["Nature of law, sources of law, and purpose of law", "Analytical, historical and ethical schools only", "Civil law, criminal law and constitutional law", "Contract, tort and property law"],
+          "answer": "Nature of law, sources of law, and purpose of law",
+          "explanation": "The three subjects of jurisprudential enquiry are the nature of law (what law is), the sources of law, and the purpose/ends of law — though some textbooks instead list the three schools as this triad."
+        },
+        {
+          "id": "u1-21",
+          "question": "\"Civil\" or \"Municipal\" law, as a type of law, refers to:",
+          "options": ["The positive law of a State, enforced by its courts", "Rules of an art or profession", "Long-observed custom of a community", "Relations between sovereign States"],
+          "answer": "The positive law of a State, enforced by its courts",
+          "explanation": "Civil (municipal) law is the positive law of a State, enforceable in its courts — one of the two senses of \"civil law\" (the other being private law, opposite of criminal)."
+        },
+        {
+          "id": "u1-22",
+          "question": "Which type of law governs relations between sovereign States and carries only a weak sanction?",
+          "options": ["International law", "Customary law", "Civil law", "Conventional law"],
+          "answer": "International law",
+          "explanation": "International law governs relations between sovereign States and has only a weak sanction; customary law, by contrast, is a long-observed custom of a community, treated as law if recognized."
+        },
+        {
+          "id": "u1-23",
+          "question": "The broadest classification of law divides it into:",
+          "options": ["Public law and Private law", "Civil law and Criminal law only", "Statute law and Case law", "National law and International law"],
+          "answer": "Public law and Private law",
+          "explanation": "Public law (State vs individual — constitutional, administrative, criminal) and Private law (individual vs individual — contract, tort, property, family) form the broadest split of law."
+        }
+      ]
+    },
+    {
+      "id": "unit3",
+      "unit": "Unit III",
+      "title": "The Sale of Goods Act, 1930",
+      "questions": [
+        {
+          "id": "u3-01",
+          "question": "A \"contract of sale\" is defined under which section of the Sale of Goods Act, 1930?",
+          "options": ["Section 4", "Section 2(7)", "Section 16", "Section 45"],
+          "answer": "Section 4",
+          "explanation": "Section 4: the seller transfers or agrees to transfer the property in goods to the buyer for a price."
+        },
+        {
+          "id": "u3-02",
+          "question": "Under Section 2(7), \"goods\" means every kind of movable property EXCEPT:",
+          "options": ["Actionable claims and money", "Stocks and shares", "Growing crops and grass", "Things attached to land agreed to be severed"],
+          "answer": "Actionable claims and money",
+          "explanation": "Goods = every movable property except actionable claims and money; stocks, shares, crops and severable things ARE goods."
+        },
+        {
+          "id": "u3-03",
+          "question": "In the Sale of Goods Act, the word \"property\" [Section 2(11)] means:",
+          "options": ["Ownership of the goods", "Physical possession of the goods", "The price of the goods", "The right to inspect the goods"],
+          "answer": "Ownership of the goods",
+          "explanation": "\"Property\" means the general property — ownership — not mere possession."
+        },
+        {
+          "id": "u3-04",
+          "question": "The \"price\" in a contract of sale [Section 2(10)] must be:",
+          "options": ["Money consideration", "Goods of equal value", "Either money or goods entirely", "Services rendered to the seller"],
+          "answer": "Money consideration",
+          "explanation": "Price is the money consideration for a sale of goods; goods exchanged for goods alone is barter, not sale."
+        },
+        {
+          "id": "u3-05",
+          "question": "\"Specific goods\" under Section 2(14) are goods that are:",
+          "options": ["Identified and agreed upon at the time of the contract", "Identified and set apart after the contract is made", "To be manufactured after the contract", "Defined only by description out of a larger lot"],
+          "answer": "Identified and agreed upon at the time of the contract",
+          "explanation": "Specific goods are identified at the time of contract; goods earmarked LATER per the agreement are called ascertained goods — a favourite trap."
+        },
+        {
+          "id": "u3-06",
+          "question": "Goods that are identified and earmarked only AFTER the contract is made are best described as:",
+          "options": ["Ascertained goods", "Specific goods", "Contingent goods", "Future goods"],
+          "answer": "Ascertained goods",
+          "explanation": "\"Ascertained\" is not defined in the Act — it refers to unascertained goods that have since been identified, after the contract."
+        },
+        {
+          "id": "u3-07",
+          "question": "A present contract for the sale of future goods operates as:",
+          "options": ["An agreement to sell", "A completed sale", "A void contract", "A hire-purchase agreement"],
+          "answer": "An agreement to sell",
+          "explanation": "You cannot transfer ownership of goods you do not yet own — a sale of future or contingent goods is always an agreement to sell."
+        },
+        {
+          "id": "u3-08",
+          "question": "\"Goods arriving only if the ship reaches port safely\" is the classic example of:",
+          "options": ["Contingent goods", "Specific goods", "Existing goods", "Ascertained goods"],
+          "answer": "Contingent goods",
+          "explanation": "Contingent goods [Section 6(2)] are future goods whose acquisition depends on an uncertain event."
+        },
+        {
+          "id": "u3-09",
+          "question": "Under Section 10, if the price is to be fixed by a third-party valuer who cannot or will not make the valuation, the agreement is:",
+          "options": ["Void", "Voidable at the seller's option", "Valid at market price", "Automatically renewed"],
+          "answer": "Void",
+          "explanation": "The agreement becomes void; but if the buyer has received and used the goods, he must pay a reasonable price."
+        },
+        {
+          "id": "u3-10",
+          "question": "Where the price is neither fixed by the contract nor determinable from a course of dealing, the buyer must pay:",
+          "options": ["A reasonable price", "The market price on the date of delivery", "Nothing until a court fixes the price", "The seller's asking price"],
+          "answer": "A reasonable price",
+          "explanation": "Section 9: failing the agreed modes of fixing price, the buyer pays a reasonable price — a question of fact in each case."
+        },
+        {
+          "id": "u3-11",
+          "question": "Under Section 4(1), \"contract of sale\" is the genus which includes:",
+          "options": ["Both sale and agreement to sell", "Only sale", "Only agreement to sell", "Sale, barter and gift"],
+          "answer": "Both sale and agreement to sell",
+          "explanation": "Contract of sale is the wider term (genus); sale and agreement to sell are its two species."
+        },
+        {
+          "id": "u3-12",
+          "question": "A sale is an executed contract, whereas an agreement to sell is:",
+          "options": ["An executory contract", "A void contract", "A unilateral contract", "A contingent guarantee"],
+          "answer": "An executory contract",
+          "explanation": "In a sale, property passes immediately (executed); in an agreement to sell, transfer happens at a future time or on a condition (executory)."
+        },
+        {
+          "id": "u3-13",
+          "question": "Under Section 4(4), an agreement to sell becomes a sale when:",
+          "options": ["The time elapses or the conditions are fulfilled", "The buyer pays earnest money", "The contract is put in writing", "The goods are insured by the buyer"],
+          "answer": "The time elapses or the conditions are fulfilled",
+          "explanation": "Section 4(4): an agreement to sell ripens into a sale when the agreed time elapses or the conditions for transfer are fulfilled."
+        },
+        {
+          "id": "u3-14",
+          "question": "Goods sold (property passed) are accidentally destroyed while still in the seller's possession. The loss falls on:",
+          "options": ["The buyer, because risk follows ownership", "The seller, because he has possession", "Both equally", "The insurer only"],
+          "answer": "The buyer, because risk follows ownership",
+          "explanation": "In a sale the buyer is already the owner — risk follows ownership (Section 26), not possession or delivery."
+        },
+        {
+          "id": "u3-15",
+          "question": "A sale creates a right \"in rem\", which means a right:",
+          "options": ["Against the whole world", "Against the seller only", "Against the buyer only", "Against the government"],
+          "answer": "Against the whole world",
+          "explanation": "Sale confers ownership — a right in rem (against all); an agreement to sell gives only a right in personam against the seller."
+        },
+        {
+          "id": "u3-16",
+          "question": "The seller becomes insolvent after a SALE but before delivery; the buyer has paid the price. The buyer can:",
+          "options": ["Claim the goods from the Official Receiver as owner", "Only prove for a rateable dividend of the money", "Cancel the contract and forfeit the price", "Sue the carrier for the goods"],
+          "answer": "Claim the goods from the Official Receiver as owner",
+          "explanation": "After a sale the buyer is the owner and can claim the goods; under a mere agreement to sell he could only claim a rateable dividend."
+        },
+        {
+          "id": "u3-17",
+          "question": "Under Section 5, a contract of sale may be made:",
+          "options": ["Orally, in writing, or implied by conduct", "Only in writing", "Only in writing and registered", "Only before a witness"],
+          "answer": "Orally, in writing, or implied by conduct",
+          "explanation": "No particular form is required — offer and acceptance may be express or implied, and delivery/payment may be immediate, by instalments or postponed."
+        },
+        {
+          "id": "u3-18",
+          "question": "In a hire-purchase agreement, ownership of the goods passes to the hirer:",
+          "options": ["Only after the last instalment is paid and the option to purchase is exercised", "Immediately on signing the agreement", "On payment of the first instalment", "When the goods are delivered"],
+          "answer": "Only after the last instalment is paid and the option to purchase is exercised",
+          "explanation": "In hire-purchase, the hirer gets possession now but ownership only after the final payment plus the option to purchase; he may return the goods anytime."
+        },
+        {
+          "id": "u3-19",
+          "question": "Why can an instalment buyer pass good title to a third party while a hire-purchaser cannot?",
+          "options": ["The instalment buyer is the owner from day one; the hirer is only a bailee with an option", "The instalment buyer pays more money", "Hire-purchase contracts must be registered", "The hirer never gets possession of the goods"],
+          "answer": "The instalment buyer is the owner from day one; the hirer is only a bailee with an option",
+          "explanation": "An instalment sale IS a sale — ownership passes immediately. A hirer is not the owner, so by nemo dat he can pass no title."
+        },
+        {
+          "id": "u3-20",
+          "question": "Sale differs from bailment because in bailment there is a transfer of:",
+          "options": ["Possession only, not ownership", "Ownership only, not possession", "Both ownership and possession", "Neither ownership nor possession"],
+          "answer": "Possession only, not ownership",
+          "explanation": "Bailment transfers possession for a purpose, and the goods must be returned or redelivered; ownership never passes."
+        },
+        {
+          "id": "u3-21",
+          "question": "Goods are exchanged partly for money and partly for other goods. The transaction is:",
+          "options": ["A sale", "A barter", "A gift", "A bailment"],
+          "answer": "A sale",
+          "explanation": "Pure goods-for-goods is barter; but if the consideration is part money and part goods, the transaction is treated as a sale."
+        },
+        {
+          "id": "u3-22",
+          "question": "The test for distinguishing a sale from a contract of work and labour is whether the substance of the contract is:",
+          "options": ["The delivery of a thing or the exercise of skill", "The amount of money paid", "Whether the contract is written", "Whether the goods are movable"],
+          "answer": "The delivery of a thing or the exercise of skill",
+          "explanation": "If the main object is skill and labour (a portrait, a dental fitting) it is work and labour; if it is delivery of a thing, it is a sale."
+        },
+        {
+          "id": "u3-23",
+          "question": "Contracts of gift and exchange are governed by which statute?",
+          "options": ["Transfer of Property Act, 1882", "Sale of Goods Act, 1930", "Indian Contract Act, 1872", "Hire Purchase Act, 1972"],
+          "answer": "Transfer of Property Act, 1882",
+          "explanation": "Gift and exchange fall under the Transfer of Property Act, 1882; hire-purchase under the Hire Purchase Act, 1972; sale of goods under SOGA 1930."
+        },
+        {
+          "id": "u3-24",
+          "question": "At an auction, the sale is complete when:",
+          "options": ["The auctioneer announces its completion, e.g. by the fall of the hammer", "The highest bid is made", "The bidder pays earnest money", "The goods are put up in lots"],
+          "answer": "The auctioneer announces its completion, e.g. by the fall of the hammer",
+          "explanation": "Section 64(2): until the auctioneer announces completion, a bidder may retract his bid."
+        },
+        {
+          "id": "u3-25",
+          "question": "If a seller employs pretended bidders (\"puffers\") to raise the price at an auction, the sale is:",
+          "options": ["Voidable at the buyer's option", "Void ab initio", "Perfectly valid", "Automatically cancelled"],
+          "answer": "Voidable at the buyer's option",
+          "explanation": "Section 64(6): pretended bidding to raise the price makes the sale voidable at the option of the buyer."
+        },
+        {
+          "id": "u3-26",
+          "question": "At an auction, the seller himself may bid only if:",
+          "options": ["The right to bid has been expressly reserved", "The reserve price is not reached", "The auctioneer permits it orally", "The goods are perishable"],
+          "answer": "The right to bid has been expressly reserved",
+          "explanation": "Section 64(3)-(4): without an express reservation, a bid by or on behalf of the seller makes the sale fraudulent and voidable by the buyer."
+        },
+        {
+          "id": "u3-27",
+          "question": "A \"condition\" under Section 12(2) is a stipulation:",
+          "options": ["Essential to the main purpose of the contract", "Collateral to the main purpose of the contract", "That can never be waived", "As to the time of payment"],
+          "answer": "Essential to the main purpose of the contract",
+          "explanation": "A condition goes to the root of the contract; a warranty [Section 12(3)] is merely collateral."
+        },
+        {
+          "id": "u3-28",
+          "question": "On breach of a WARRANTY, the buyer can:",
+          "options": ["Claim damages only — he cannot reject the goods", "Reject the goods and repudiate the contract", "Rescind the contract and claim the price back", "Treat the contract as void"],
+          "answer": "Claim damages only — he cannot reject the goods",
+          "explanation": "Section 59: for breach of warranty the buyer may set up the breach to reduce the price or sue for damages, but cannot reject the goods."
+        },
+        {
+          "id": "u3-29",
+          "question": "Under Section 12(4), whether a stipulation is a condition or a warranty depends on:",
+          "options": ["The construction of the contract, not the label used", "The word the parties used to describe it", "Whether it is in writing", "The value of the goods"],
+          "answer": "The construction of the contract, not the label used",
+          "explanation": "A stipulation called a \"warranty\" may in substance be a condition — the construction of the contract decides, not its label."
+        },
+        {
+          "id": "u3-30",
+          "question": "Under Section 11, unless a different intention appears, the time of PAYMENT is:",
+          "options": ["Not of the essence of the contract", "Always of the essence of the contract", "Of the essence only in cash sales", "Fixed by the court"],
+          "answer": "Not of the essence of the contract",
+          "explanation": "Time of payment is presumed not of essence; time of delivery, however, usually IS of the essence."
+        },
+        {
+          "id": "u3-31",
+          "question": "A buyer is COMPELLED to treat a breach of condition as a breach of warranty [Section 13(2)] when:",
+          "options": ["The contract is non-severable and he has accepted the goods or part of them", "He gives notice to the seller", "The seller offers a discount", "The goods are perishable"],
+          "answer": "The contract is non-severable and he has accepted the goods or part of them",
+          "explanation": "Compulsory waiver applies where the contract is non-severable and goods are accepted; then only damages are available, not rejection."
+        },
+        {
+          "id": "u3-32",
+          "question": "The implied condition that the seller has a right to sell the goods is found in:",
+          "options": ["Section 14(a)", "Section 16(1)", "Section 17", "Section 15"],
+          "answer": "Section 14(a)",
+          "explanation": "Section 14(a) — condition as to title. Quiet possession [14(b)] and freedom from encumbrance [14(c)] are implied warranties."
+        },
+        {
+          "id": "u3-33",
+          "question": "Which of the following is an implied WARRANTY, not a condition?",
+          "options": ["Quiet possession of the goods", "Correspondence with description", "Fitness for the buyer's disclosed purpose", "Merchantable quality"],
+          "answer": "Quiet possession of the goods",
+          "explanation": "Quiet possession [Section 14(b)] and freedom from encumbrance [14(c)] are implied warranties; description, fitness and merchantability are implied conditions."
+        },
+        {
+          "id": "u3-34",
+          "question": "In a sale by sample [Section 17], which of the following is NOT an implied condition?",
+          "options": ["The goods must be the cheapest available in the market", "The bulk must correspond with the sample", "The buyer must have a reasonable opportunity to compare bulk with sample", "The goods must be free from hidden (latent) defects"],
+          "answer": "The goods must be the cheapest available in the market",
+          "explanation": "Sale by sample implies: bulk matches sample, reasonable chance to compare, and freedom from latent defects — nothing about price."
+        },
+        {
+          "id": "u3-35",
+          "question": "The implied condition of fitness for purpose [Section 16(1)] applies when the buyer:",
+          "options": ["Discloses the purpose and relies on the seller's skill or judgment", "Examines the goods thoroughly himself", "Buys goods at an auction", "Pays the price in advance"],
+          "answer": "Discloses the purpose and relies on the seller's skill or judgment",
+          "explanation": "Section 16(1): fitness for purpose is implied only where the buyer makes the purpose known and relies on the seller's skill or judgment."
+        },
+        {
+          "id": "u3-36",
+          "question": "Under Section 18, in a sale of UNASCERTAINED goods, property passes to the buyer:",
+          "options": ["Only after the goods are ascertained", "At the time of the contract", "When the price is paid", "When the invoice is issued"],
+          "answer": "Only after the goods are ascertained",
+          "explanation": "Section 18: no property passes in unascertained goods until they are ascertained."
+        },
+        {
+          "id": "u3-37",
+          "question": "For SPECIFIC goods in a deliverable state [Section 20], property passes:",
+          "options": ["At the time the contract is made, even if payment or delivery is postponed", "Only when the price is paid", "Only when the goods are delivered", "When the buyer inspects the goods"],
+          "answer": "At the time the contract is made, even if payment or delivery is postponed",
+          "explanation": "Section 20: for specific goods in a deliverable state, property passes when the contract is made — timing of payment and delivery is irrelevant."
+        },
+        {
+          "id": "u3-38",
+          "question": "Goods are sent \"on approval or sale or return\". Property passes to the buyer when he:",
+          "options": ["Signifies approval, adopts the transaction, or retains the goods beyond the fixed or reasonable time", "Receives the goods", "Pays the carrier", "Signs the delivery challan"],
+          "answer": "Signifies approval, adopts the transaction, or retains the goods beyond the fixed or reasonable time",
+          "explanation": "Section 24: approval, an act adopting the transaction, or retention beyond the fixed/reasonable time without rejection — the three triggers."
+        },
+        {
+          "id": "u3-39",
+          "question": "The maxim \"res perit domino\" underlying Section 26 means:",
+          "options": ["The risk of loss follows ownership", "The risk of loss follows possession", "The seller always bears the risk", "Risk passes only on delivery"],
+          "answer": "The risk of loss follows ownership",
+          "explanation": "Risk prima facie passes with property (ownership), not with possession or delivery — unless otherwise agreed."
+        },
+        {
+          "id": "u3-40",
+          "question": "Delivery of the goods is delayed through the fault of the buyer. Who bears the risk of loss that would not have occurred but for the delay?",
+          "options": ["The buyer, as the party in fault", "The seller, since he still has possession", "Both parties equally", "The carrier"],
+          "answer": "The buyer, as the party in fault",
+          "explanation": "Exception to Section 26: where delivery is delayed by the fault of either party, the goods are at the risk of the party in fault."
+        },
+        {
+          "id": "u3-41",
+          "question": "The maxim \"nemo dat quod non habet\" means:",
+          "options": ["No one can pass a better title than he himself has", "Let the buyer beware", "The thing perishes with the owner", "Ignorance of law is no excuse"],
+          "answer": "No one can pass a better title than he himself has",
+          "explanation": "Nemo dat quod non habet — a seller cannot transfer a better title than his own; Sections 27–30 list the exceptions."
+        },
+        {
+          "id": "u3-42",
+          "question": "Which of the following is NOT an exception to the rule \"nemo dat quod non habet\"?",
+          "options": ["Sale by a person who has stolen the goods", "Sale by a mercantile agent", "Sale under a voidable contract before it is rescinded", "Sale by a buyer in possession after an agreement to buy"],
+          "answer": "Sale by a person who has stolen the goods",
+          "explanation": "A thief has no title and passes none. The exceptions include mercantile agent, joint owner, voidable-contract seller, seller/buyer in possession, unpaid seller's resale, estoppel, and finder/pawnee/court sales."
+        },
+        {
+          "id": "u3-43",
+          "question": "Handing over the key of a godown where the goods are stored is an example of:",
+          "options": ["Symbolic delivery", "Actual delivery", "Constructive delivery", "Conditional delivery"],
+          "answer": "Symbolic delivery",
+          "explanation": "Symbolic delivery hands over a symbol or means of control (key, document of title); constructive delivery is a third party's attornment."
+        },
+        {
+          "id": "u3-44",
+          "question": "Constructive delivery (attornment) takes place when:",
+          "options": ["A third party in possession acknowledges holding the goods for the buyer", "The goods are physically handed to the buyer", "The key of the warehouse is given to the buyer", "The goods are put on the seller's truck"],
+          "answer": "A third party in possession acknowledges holding the goods for the buyer",
+          "explanation": "In constructive delivery, the person in possession (e.g., a warehouseman) acknowledges that he now holds the goods on the buyer's behalf."
+        },
+        {
+          "id": "u3-45",
+          "question": "Under Section 32, unless otherwise agreed, delivery of goods and payment of price are:",
+          "options": ["Concurrent conditions", "Independent obligations", "Conditions precedent to the contract", "Optional for both parties"],
+          "answer": "Concurrent conditions",
+          "explanation": "Section 32: the seller must be ready to deliver and the buyer ready to pay — simultaneously, unless otherwise agreed."
+        },
+        {
+          "id": "u3-46",
+          "question": "Under Section 39, delivery of goods to a carrier for transmission to the buyer is:",
+          "options": ["Prima facie delivery to the buyer", "No delivery at all", "Delivery only after the buyer confirms receipt", "Deemed delivery to the seller's agent"],
+          "answer": "Prima facie delivery to the buyer",
+          "explanation": "Section 39: delivery to a carrier or wharfinger for transmission to the buyer is prima facie deemed delivery to the buyer."
+        },
+        {
+          "id": "u3-47",
+          "question": "Under Section 42, the buyer is DEEMED to have accepted the goods when he:",
+          "options": ["Does an act inconsistent with the seller's ownership, such as reselling them", "Merely receives the goods", "Examines the goods", "Asks for a price discount"],
+          "answer": "Does an act inconsistent with the seller's ownership, such as reselling them",
+          "explanation": "Acceptance is deemed when the buyer intimates acceptance, does an inconsistent act (e.g., resale), or retains the goods beyond a reasonable time without rejecting."
+        },
+        {
+          "id": "u3-48",
+          "question": "If the seller delivers a quantity LESS than contracted [Section 37], the buyer may:",
+          "options": ["Reject the goods, or accept them at the contract rate", "Only reject the whole", "Only accept and pay less arbitrarily", "Demand double delivery as penalty"],
+          "answer": "Reject the goods, or accept them at the contract rate",
+          "explanation": "Section 37: short delivery — reject or accept paying at the contract rate; excess — reject whole/excess or accept; mixed — reject the mixed part or the whole."
+        },
+        {
+          "id": "u3-49",
+          "question": "A buyer who rightfully rejects delivered goods is bound to:",
+          "options": ["Merely intimate his refusal to the seller — not return the goods", "Return the goods to the seller at his own cost", "Store the goods for six months", "Resell the goods for the seller"],
+          "answer": "Merely intimate his refusal to the seller — not return the goods",
+          "explanation": "Section 43: the buyer is not bound to return rejected goods; it is enough to intimate his refusal to accept them."
+        },
+        {
+          "id": "u3-50",
+          "question": "The doctrine of \"caveat emptor\" [Section 16] means:",
+          "options": ["The buyer must examine the goods and judge their suitability himself", "The seller must disclose every defect in the goods", "The seller bears all risks of the sale", "The court protects the buyer in every sale"],
+          "answer": "The buyer must examine the goods and judge their suitability himself",
+          "explanation": "Caveat emptor — let the buyer beware: the seller is under no duty to disclose defects, so an unwise buyer bears his own loss."
+        },
+        {
+          "id": "u3-51",
+          "question": "Which of the following is NOT an exception to the doctrine of caveat emptor?",
+          "options": ["The buyer selects the goods himself without asking anything about them", "The buyer discloses his purpose and relies on the seller's skill", "The sale is by sample", "The seller actively conceals a latent defect"],
+          "answer": "The buyer selects the goods himself without asking anything about them",
+          "explanation": "That is caveat emptor operating, not an exception — like the buyer who picks an unsound horse without asking about soundness."
+        },
+        {
+          "id": "u3-52",
+          "question": "\"Caveat venditor\" — the modern trend under consumer laws — means:",
+          "options": ["Let the seller beware", "Let the buyer beware", "Let the carrier beware", "Let the court beware"],
+          "answer": "Let the seller beware",
+          "explanation": "Caveat venditor shifts responsibility to the seller — the opposite of caveat emptor, reflecting modern consumer protection."
+        },
+        {
+          "id": "u3-53",
+          "question": "Under Section 45, a seller is an \"unpaid seller\" when:",
+          "options": ["The whole price is unpaid, or a cheque received has been dishonoured", "Only when no part of the price has been paid in cash", "Only after he sues the buyer", "Only if the buyer is insolvent"],
+          "answer": "The whole price is unpaid, or a cheque received has been dishonoured",
+          "explanation": "Section 45: unpaid the whole of the price, OR a negotiable instrument/cheque taken as payment has been dishonoured."
+        },
+        {
+          "id": "u3-54",
+          "question": "The unpaid seller's LIEN [Section 47] is the right to:",
+          "options": ["Retain possession of the goods until the price is paid", "Resell the goods immediately", "Stop the goods while in transit", "Sue the buyer for damages"],
+          "answer": "Retain possession of the goods until the price is paid",
+          "explanation": "Lien is for the price only and lasts only while the seller has possession; it is lost when goods are delivered to a carrier without reserving disposal, the buyer lawfully obtains possession, or by waiver."
+        },
+        {
+          "id": "u3-55",
+          "question": "The right of STOPPAGE IN TRANSIT is available to the unpaid seller only when:",
+          "options": ["The buyer is insolvent and the goods are in transit", "The buyer refuses to pay on time", "The goods are still in the seller's warehouse", "The buyer has resold the goods"],
+          "answer": "The buyer is insolvent and the goods are in transit",
+          "explanation": "Stoppage in transit requires the buyer's INSOLVENCY — unlike lien, which is available even against a solvent buyer whose credit has expired."
+        },
+        {
+          "id": "u3-56",
+          "question": "Which of the following brings the TRANSIT of goods to an end [Section 51]?",
+          "options": ["The carrier acknowledges to the buyer that he holds the goods on the buyer's behalf", "The goods cross the state border", "The seller issues the invoice", "Half the journey is completed"],
+          "answer": "The carrier acknowledges to the buyer that he holds the goods on the buyer's behalf",
+          "explanation": "Transit ends when the buyer takes delivery, the carrier attorns to the buyer at destination, the carrier wrongfully refuses to deliver, or part delivery amounts to delivery of the whole."
+        },
+        {
+          "id": "u3-57",
+          "question": "An unpaid seller resells non-perishable goods WITHOUT giving notice of resale to the buyer. He:",
+          "options": ["Cannot recover any loss on resale and must account for any profit to the buyer", "Can recover the loss and keep the profit", "Commits a criminal offence", "Must cancel the resale"],
+          "answer": "Cannot recover any loss on resale and must account for any profit to the buyer",
+          "explanation": "Section 54: with notice, the seller recovers the deficiency and keeps any profit; without notice, the position reverses."
+        },
+        {
+          "id": "u3-58",
+          "question": "Which statement correctly distinguishes lien from stoppage in transit?",
+          "options": ["Lien is to RETAIN possession; stoppage in transit is to REGAIN possession after goods have left the seller", "Both require the buyer to be insolvent", "Lien applies while goods are with the carrier", "Stoppage in transit is available even while goods are in the seller's godown"],
+          "answer": "Lien is to RETAIN possession; stoppage in transit is to REGAIN possession after goods have left the seller",
+          "explanation": "Lien: goods with the seller, buyer may even be solvent. Stoppage: goods with a carrier and buyer insolvent — stoppage begins where lien ends."
+        },
+        {
+          "id": "u3-59",
+          "question": "The unpaid seller can sue the buyer for the PRICE [Section 55] when:",
+          "options": ["The property in the goods has passed to the buyer and he wrongfully refuses to pay", "The goods are still unascertained", "The buyer has rejected the goods lawfully", "The contract is void"],
+          "answer": "The property in the goods has passed to the buyer and he wrongfully refuses to pay",
+          "explanation": "A suit for price lies once property has passed; before that, the seller's remedy for non-acceptance is a suit for damages [Section 56]."
+        },
+        {
+          "id": "u3-60",
+          "question": "Which of the following is a DOCUMENT OF TITLE to goods [Section 2(4)]?",
+          "options": ["Bill of lading", "Promissory note", "Cheque", "Insurance policy"],
+          "answer": "Bill of lading",
+          "explanation": "Documents of title include the bill of lading, warehouse receipt and railway receipt — proof of possession or control of goods."
+        },
+        {
+          "id": "u3-61",
+          "question": "Under the Sale of Goods Act, 1930, \"buyer\" and \"seller\" are defined in:",
+          "options": ["Section 2(1) and Section 2(13) respectively", "Section 2(7) and Section 2(10) respectively", "Section 4 and Section 5 respectively", "Section 2(11) and Section 2(14) respectively"],
+          "answer": "Section 2(1) and Section 2(13) respectively",
+          "explanation": "Buyer [Section 2(1)] is a person who buys or agrees to buy goods; seller [Section 2(13)] is a person who sells or agrees to sell goods."
+        },
+        {
+          "id": "u3-62",
+          "question": "\"Existing goods\" [Section 6(1)] are goods that are:",
+          "options": ["Owned or possessed by the seller at the time of the contract", "To be manufactured or acquired after the contract", "Goods whose acquisition depends on an uncertain event", "Goods sent to the buyer on approval or sale or return"],
+          "answer": "Owned or possessed by the seller at the time of the contract",
+          "explanation": "Existing goods [§6(1)] are owned or possessed by the seller now; they may be specific/ascertained or unascertained. Future goods [§2(6)] are to be made or acquired later; contingent goods [§6(2)] depend on an uncertain event."
+        },
+        {
+          "id": "u3-63",
+          "question": "\"Earnest money\" paid by a buyer under a contract of sale is best described as:",
+          "options": ["Part-payment plus security, forfeited if the buyer defaults", "The full price paid in advance", "A refundable booking fee only", "A penalty paid by the seller"],
+          "answer": "Part-payment plus security, forfeited if the buyer defaults",
+          "explanation": "Earnest money serves both as part-payment towards the price and as security for performance — it is forfeited if the buyer defaults."
+        },
+        {
+          "id": "u3-64",
+          "question": "For unascertained or future goods sold by description [Section 23], property passes to the buyer when the goods are:",
+          "options": ["Appropriated to the contract with the consent of both parties", "Merely identified in the seller's warehouse", "Invoiced to the buyer", "Weighed by the seller alone"],
+          "answer": "Appropriated to the contract with the consent of both parties",
+          "explanation": "Section 23: property passes on appropriation of goods of the contract description to the contract, with mutual consent — delivery to a carrier for transmission to the buyer amounts to appropriation."
+        },
+        {
+          "id": "u3-65",
+          "question": "Where specific goods are not in a deliverable state and the seller must do something to put them in that state [Section 21], property passes when:",
+          "options": ["That act is done AND the buyer is given notice of it", "The contract is signed", "The buyer pays an advance", "The goods are loaded onto a carrier"],
+          "answer": "That act is done AND the buyer is given notice of it",
+          "explanation": "Section 21: property passes only once the seller has done the required act and the buyer has notice of it; Section 22 applies the same rule where the seller must weigh, measure or test the goods to fix the price."
+        },
+        {
+          "id": "u3-66",
+          "question": "Which of the following is NOT one of the essential elements of a valid contract of sale?",
+          "options": ["A fixed rate of interest on the unpaid price", "Two distinct parties — buyer and seller", "Movable goods as the subject matter", "A money price as consideration"],
+          "answer": "A fixed rate of interest on the unpaid price",
+          "explanation": "The essentials are: two parties, goods (movable), money price, transfer of property, valid offer and acceptance, and all essentials of a valid contract under the ICA 1872 — interest on unpaid price is not among them."
+        }
+      ]
+    },
+    {
+      "id": "unit5",
+      "unit": "Unit V",
+      "title": "Consumer Protection Act, 2019",
+      "questions": [
+        {
+          "id": "u5-01",
+          "question": "The Consumer Protection Act, 2019 repealed and replaced which earlier law?",
+          "options": ["The Consumer Protection Act, 1986", "The Sale of Goods Act, 1930", "The Monopolies and Restrictive Trade Practices Act", "The Indian Contract Act, 1872"],
+          "answer": "The Consumer Protection Act, 1986",
+          "explanation": "CPA 2019 repealed and replaced the Consumer Protection Act, 1986, adding e-commerce coverage, the CCPA, product liability and mediation."
+        },
+        {
+          "id": "u5-02",
+          "question": "The Consumer Protection Act, 2019 came into force on:",
+          "options": ["20 July 2020", "9 August 2019", "26 January 2020", "1 April 2019"],
+          "answer": "20 July 2020",
+          "explanation": "Presidential assent was given on 9 August 2019, and the Act came into force on 20 July 2020."
+        },
+        {
+          "id": "u5-03",
+          "question": "Which of the following is NEW in the 2019 Act compared with the 1986 Act?",
+          "options": ["Product liability and a central regulator (CCPA)", "The three-tier redressal machinery", "The concept of 'defect' in goods", "The idea of consumer rights"],
+          "answer": "Product liability and a central regulator (CCPA)",
+          "explanation": "New features include the CCPA, product liability, mediation, e-commerce coverage, celebrity-endorser penalties and e-filing."
+        },
+        {
+          "id": "u5-04",
+          "question": "Under the 2019 Act, the pecuniary jurisdiction of Commissions is based on:",
+          "options": ["The value of goods or services PAID as consideration", "The compensation claimed by the complainant", "The market value of the opposite party's business", "The court fees paid"],
+          "answer": "The value of goods or services PAID as consideration",
+          "explanation": "A big change from the 1986 Act, where jurisdiction depended on the compensation claimed."
+        },
+        {
+          "id": "u5-05",
+          "question": "Which of the following is NOT one of the six consumer rights?",
+          "options": ["Right to free goods", "Right to safety", "Right to consumer education", "Right to be heard"],
+          "answer": "Right to free goods",
+          "explanation": "The six rights: safety, information, choose, be heard, seek redressal, consumer education (S-I-C-H-R-E)."
+        },
+        {
+          "id": "u5-06",
+          "question": "Under Section 2(5), which of the following can be a \"complainant\"?",
+          "options": ["A registered consumer association", "Any shopkeeper who resells goods", "The opposite party itself", "An unregistered trade union only"],
+          "answer": "A registered consumer association",
+          "explanation": "Complainant includes the consumer, a REGISTERED consumer association, Central/State Government, consumers with the same interest, a legal heir, or a minor's parent/guardian."
+        },
+        {
+          "id": "u5-07",
+          "question": "A \"complaint\" under Section 2(6) must be:",
+          "options": ["A written allegation", "An oral allegation before the President", "A police report", "A newspaper advertisement"],
+          "answer": "A written allegation",
+          "explanation": "A complaint is a written allegation of an unfair/restrictive trade practice, defective goods, deficient service, overcharging, hazardous goods or an unfair contract."
+        },
+        {
+          "id": "u5-08",
+          "question": "Under Section 2(7), a person who buys goods for RESALE is:",
+          "options": ["Not a consumer", "A consumer", "A complainant by default", "A beneficiary"],
+          "answer": "Not a consumer",
+          "explanation": "Buying for resale or a commercial purpose excludes a person from the definition of consumer."
+        },
+        {
+          "id": "u5-09",
+          "question": "A person buys a sewing machine to earn her livelihood by self-employment. Under the Act, she is:",
+          "options": ["A consumer, because the self-employment/livelihood exception applies", "Not a consumer, because the purchase is commercial", "A trader", "A service provider"],
+          "answer": "A consumer, because the self-employment/livelihood exception applies",
+          "explanation": "The Explanation to Section 2(7): goods bought for earning livelihood by self-employment are NOT treated as bought for a commercial purpose."
+        },
+        {
+          "id": "u5-10",
+          "question": "Under the Consumer Protection Act, 2019, \"consideration\" for a purchase may be:",
+          "options": ["Paid, promised, partly paid and partly promised, or deferred", "Fully paid in cash only", "Paid before delivery only", "Anything except a promise"],
+          "answer": "Paid, promised, partly paid and partly promised, or deferred",
+          "explanation": "Consideration under Section 2(7) may be paid, promised, partly paid/partly promised, or under a system of deferred payment."
+        },
+        {
+          "id": "u5-11",
+          "question": "Which of the following is NOT a \"service\" under Section 2(42)?",
+          "options": ["A service rendered free of charge", "Banking", "Insurance", "Transport"],
+          "answer": "A service rendered free of charge",
+          "explanation": "Service excludes services rendered free of charge and personal service under a contract of employment."
+        },
+        {
+          "id": "u5-12",
+          "question": "A \"consumer dispute\" [Section 2(8)] arises when:",
+          "options": ["The opposite party denies or disputes the allegation in the complaint", "The consumer files a complaint", "The Commission issues notice", "Mediation fails"],
+          "answer": "The opposite party denies or disputes the allegation in the complaint",
+          "explanation": "It becomes a consumer dispute only when the person against whom the complaint is made denies or disputes the allegation."
+        },
+        {
+          "id": "u5-13",
+          "question": "Under the Act, \"defect\" relates to GOODS while \"deficiency\" relates to:",
+          "options": ["Services", "Prices", "Contracts", "Advertisements"],
+          "answer": "Services",
+          "explanation": "Defect [2(10)] = fault in quality/quantity/standard of goods; deficiency [2(11)] = fault or inadequacy in the quality, nature or manner of a service, including negligence."
+        },
+        {
+          "id": "u5-14",
+          "question": "Which of the following is an example of an UNFAIR TRADE PRACTICE [Section 2(47)]?",
+          "options": ["Refusing to take back defective goods or issue a bill", "Selling goods at a discount", "Advertising a genuine sale", "Offering a warranty"],
+          "answer": "Refusing to take back defective goods or issue a bill",
+          "explanation": "Unfair trade practices include false representation, misleading ads, hoarding, not issuing a bill/memo, refusing to take back defective goods, and misusing personal information."
+        },
+        {
+          "id": "u5-15",
+          "question": "An \"unfair contract\" [Section 2(46)] is one that causes:",
+          "options": ["A significant change in the rights of the consumer", "A minor price increase", "A delay in delivery", "A change in the seller's profits"],
+          "answer": "A significant change in the rights of the consumer",
+          "explanation": "Examples: demanding excessive security deposits, imposing disproportionate penalties, or allowing unilateral termination."
+        },
+        {
+          "id": "u5-16",
+          "question": "The Consumer Protection Councils (Central, State, District) are:",
+          "options": ["Advisory bodies that do not adjudicate complaints", "Courts that decide consumer complaints", "Appellate tribunals", "Investigation agencies"],
+          "answer": "Advisory bodies that do not adjudicate complaints",
+          "explanation": "Councils only advise on the promotion and protection of consumer rights; complaints are decided by the Redressal Commissions — a classic Council-vs-Commission trap."
+        },
+        {
+          "id": "u5-17",
+          "question": "Who is the Chairperson of the CENTRAL Consumer Protection Council?",
+          "options": ["The Union Minister in charge of Consumer Affairs", "The Chief Justice of India", "The District Collector", "The Chief Commissioner of the CCPA"],
+          "answer": "The Union Minister in charge of Consumer Affairs",
+          "explanation": "Central Council — Union Minister (Consumer Affairs); State Council — State Minister; District Council — the District Collector."
+        },
+        {
+          "id": "u5-18",
+          "question": "The STATE Consumer Protection Council may include up to how many members nominated by the Central Government?",
+          "options": ["10", "2", "5", "25"],
+          "answer": "10",
+          "explanation": "The State Council [Section 6] includes the State Minister as chair, prescribed members, plus up to 10 members nominated by the Central Government."
+        },
+        {
+          "id": "u5-19",
+          "question": "The Central Consumer Protection Council must meet at least:",
+          "options": ["Once every year", "Twice every year", "Four times every year", "Once every month"],
+          "answer": "Once every year",
+          "explanation": "Central Council: at least 1 meeting a year; State and District Councils: at least 2 meetings a year."
+        },
+        {
+          "id": "u5-20",
+          "question": "The Chairperson of the DISTRICT Consumer Protection Council is the:",
+          "options": ["District Collector", "District Judge", "State Minister of Consumer Affairs", "Superintendent of Police"],
+          "answer": "District Collector",
+          "explanation": "The District Council [Section 8] is chaired by the Collector of the district."
+        },
+        {
+          "id": "u5-21",
+          "question": "The Central Consumer Protection Authority (CCPA) is headed by:",
+          "options": ["A Chief Commissioner", "A Director-General", "The Union Minister", "A Supreme Court Judge"],
+          "answer": "A Chief Commissioner",
+          "explanation": "The CCPA consists of a Chief Commissioner and Commissioners; its Investigation Wing is headed by a Director-General."
+        },
+        {
+          "id": "u5-22",
+          "question": "For a FIRST misleading advertisement, the CCPA can impose a penalty of up to:",
+          "options": ["₹10 lakh", "₹50 lakh", "₹1 crore", "₹25,000"],
+          "answer": "₹10 lakh",
+          "explanation": "Up to ₹10 lakh for the first offence and up to ₹50 lakh for a repeat; an endorser can be banned for 1 year (3 years on repeat)."
+        },
+        {
+          "id": "u5-23",
+          "question": "The CCPA protects the rights of consumers:",
+          "options": ["As a class", "One complaint at a time only", "Only in e-commerce cases", "Only through criminal courts"],
+          "answer": "As a class",
+          "explanation": "The CCPA is a regulator set up to protect, promote and enforce the rights of consumers as a class, and can act suo motu."
+        },
+        {
+          "id": "u5-24",
+          "question": "The President of a DISTRICT Commission must be, or be qualified to be, a:",
+          "options": ["District Judge", "High Court Judge", "Supreme Court Judge", "Sessions Public Prosecutor"],
+          "answer": "District Judge",
+          "explanation": "District — District Judge; State — is/has been a High Court Judge; National — is/has been a Supreme Court Judge."
+        },
+        {
+          "id": "u5-25",
+          "question": "Each Consumer Commission bench must include at least one:",
+          "options": ["Woman member", "Retired police officer", "Chartered accountant", "Advocate of 20 years' standing"],
+          "answer": "Woman member",
+          "explanation": "District: President + at least 2 members; State/National: President + at least 4 members — each including at least one woman."
+        },
+        {
+          "id": "u5-26",
+          "question": "The National Consumer Disputes Redressal Commission (NCDRC) is established by the Central Government and sits at:",
+          "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+          "answer": "New Delhi",
+          "explanation": "District and State Commissions are established by the State Government; the National Commission by the Central Government, at New Delhi (NCR)."
+        },
+        {
+          "id": "u5-27",
+          "question": "After the 2021 amendment, the DISTRICT Commission entertains complaints where the value of goods or services paid does not exceed:",
+          "options": ["₹50 lakh", "₹1 crore", "₹2 crore", "₹10 crore"],
+          "answer": "₹50 lakh",
+          "explanation": "Current limits: District up to ₹50 lakh; State ₹50 lakh–₹2 crore; National above ₹2 crore. (Some books still print the original 2019 figures of ₹1 cr/₹10 cr — a trap.)"
+        },
+        {
+          "id": "u5-28",
+          "question": "The NATIONAL Commission hears complaints where the value paid as consideration exceeds:",
+          "options": ["₹2 crore", "₹50 lakh", "₹10 crore", "₹1 crore"],
+          "answer": "₹2 crore",
+          "explanation": "Above ₹2 crore goes to the National Commission; ₹50 lakh–₹2 crore to the State Commission."
+        },
+        {
+          "id": "u5-29",
+          "question": "Under Section 34, a consumer-friendly NEW rule of territorial jurisdiction allows a complaint to be filed where the:",
+          "options": ["Complainant resides or personally works for gain", "Opposite party's head office is registered, only", "Goods were manufactured, only", "State Commission directs"],
+          "answer": "Complainant resides or personally works for gain",
+          "explanation": "Complaints may be filed where the opposite party resides/carries on business, where the cause of action arose, OR — new in 2019 — where the complainant resides or works."
+        },
+        {
+          "id": "u5-30",
+          "question": "An appeal from the DISTRICT Commission to the State Commission must be filed within:",
+          "options": ["45 days", "30 days", "60 days", "90 days"],
+          "answer": "45 days",
+          "explanation": "District→State: 45 days; State→National and National→Supreme Court: 30 days each."
+        },
+        {
+          "id": "u5-31",
+          "question": "What pre-deposit must an appellant make at EVERY appellate level under the 2019 Act?",
+          "options": ["50% of the amount ordered", "25% of the amount ordered", "A flat ₹25,000", "No deposit is required"],
+          "answer": "50% of the amount ordered",
+          "explanation": "The 50% pre-deposit applies at all three appeal levels — a major change from the 1986 Act, which capped the deposit."
+        },
+        {
+          "id": "u5-32",
+          "question": "The limitation period for filing a consumer complaint [Section 69] is:",
+          "options": ["2 years from the date on which the cause of action arose", "45 days from purchase", "1 year from delivery", "5 years from the date of invoice"],
+          "answer": "2 years from the date on which the cause of action arose",
+          "explanation": "2 years, condonable if the complainant shows sufficient cause for the delay."
+        },
+        {
+          "id": "u5-33",
+          "question": "A NEW power given to every Consumer Commission by the 2019 Act is the power to:",
+          "options": ["Review its own order to rectify an error apparent on the face of the record", "Punish for treason", "Amend the Act itself", "Appoint the District Collector"],
+          "answer": "Review its own order to rectify an error apparent on the face of the record",
+          "explanation": "Review powers: District §40, State §50, National §68. Revision: State over District (§47), National over State (§58)."
+        },
+        {
+          "id": "u5-34",
+          "question": "A product liability action [Sections 82–87] can be brought against:",
+          "options": ["The product manufacturer, product service provider, or product seller", "Only the retailer", "Only the manufacturer", "Only the advertising agency"],
+          "answer": "The product manufacturer, product service provider, or product seller",
+          "explanation": "Sections 84–86 make the manufacturer, service provider and seller each liable for harm caused by a defective product; Section 87 gives sellers exceptions."
+        },
+        {
+          "id": "u5-35",
+          "question": "Which of the following is a valid GROUND for a product liability claim?",
+          "options": ["Failure to provide adequate warnings or instructions", "The product going out of fashion", "A rise in the product's market price", "The buyer changing his mind"],
+          "answer": "Failure to provide adequate warnings or instructions",
+          "explanation": "Grounds include manufacturing defect, design defect, deviation from specifications, inadequate warnings/instructions, and non-conformance to express warranty."
+        },
+        {
+          "id": "u5-36",
+          "question": "Once a dispute is settled through MEDIATION and the settlement is recorded:",
+          "options": ["No appeal lies against the settlement", "Either party may appeal within 30 days", "The CCPA must ratify it", "The Supreme Court must confirm it"],
+          "answer": "No appeal lies against the settlement",
+          "explanation": "A Consumer Mediation Cell is attached to each Commission; a recorded settlement is final — no appeal lies against it."
+        },
+        {
+          "id": "u5-37",
+          "question": "Non-compliance with an order of a Consumer Commission [Section 72] is punishable with:",
+          "options": ["Imprisonment from 1 month to 3 years, or fine from ₹25,000 to ₹1 lakh, or both", "Only a warning", "Imprisonment up to 10 years", "A fine of ₹10 lakh only"],
+          "answer": "Imprisonment from 1 month to 3 years, or fine from ₹25,000 to ₹1 lakh, or both",
+          "explanation": "Section 72 makes Commission orders enforceable with imprisonment (1 month–3 years) and/or fine (₹25,000–₹1 lakh)."
+        },
+        {
+          "id": "u5-38",
+          "question": "Under the Consumer Protection (E-Commerce) Rules, 2020, e-commerce entities must:",
+          "options": ["Appoint a grievance officer and disclose seller identity and return/refund terms", "Guarantee the lowest market price", "Offer cash on delivery on all orders", "Manufacture their own goods"],
+          "answer": "Appoint a grievance officer and disclose seller identity and return/refund terms",
+          "explanation": "The 2020 Rules mandate disclosures (seller identity, return/refund/warranty terms), a grievance officer, no flash-sale manipulation and no misleading ads."
+        },
+        {
+          "id": "u5-39",
+          "question": "Under the Consumer Protection Act, 2019, \"goods\" [Section 2(21)] means every kind of movable property, and expressly includes:",
+          "options": ["Food", "Actionable claims", "Money", "Immovable property"],
+          "answer": "Food",
+          "explanation": "Section 2(21) defines goods as every kind of movable property, and expressly includes \"food\" — relevant to food adulteration and product liability claims."
+        },
+        {
+          "id": "u5-40",
+          "question": "\"Product liability\" [Section 2(34)] refers to the responsibility of a manufacturer, service provider or seller to:",
+          "options": ["Compensate for harm caused by a defective product", "Register the product with the CCPA", "Advertise the product truthfully", "Provide a warranty card with every sale"],
+          "answer": "Compensate for harm caused by a defective product",
+          "explanation": "Product liability is the manufacturer's, service provider's or seller's responsibility to compensate a consumer for harm caused by a defective product."
+        },
+        {
+          "id": "u5-41",
+          "question": "Under Sections 89–90, manufacture or sale of adulterated or spurious goods is punishable with fine and imprisonment that can extend to:",
+          "options": ["Life imprisonment, if death results from the adulterated product", "A maximum of 3 years regardless of consequences", "A warning only for a first offence", "Community service"],
+          "answer": "Life imprisonment, if death results from the adulterated product",
+          "explanation": "Sections 89–90 punish the manufacture or sale of adulterated/spurious goods with fine plus imprisonment, extending up to life imprisonment where the act results in death."
+        },
+        {
+          "id": "u5-42",
+          "question": "Under Section 87, a product SELLER can escape product liability by showing, for example, that:",
+          "options": ["The product was altered or he had no control over its design", "He sold the product at a discount", "The manufacturer is based abroad", "The product was popular in the market"],
+          "answer": "The product was altered or he had no control over its design",
+          "explanation": "Section 87 gives sellers specific exceptions from product liability — such as the product being altered after it left the manufacturer, or the seller having no control over the design."
+        }
+      ]
+    }
+  ]
+}
